@@ -1,0 +1,49 @@
+.input {
+  display: flex;
+}
+body {
+  background-image: url('images/download.jpg');
+}
+html, body {
+  height: 100%;
+}
+#f_box {
+  margin-right: 3%;
+  margin-left: 1%;
+  float: left;
+  align-items: space-around;
+}
+h2 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+h1 {
+  text-align: center;;
+}
+p {
+  text-align: center;
+}
+label {
+  align-items: center;
+}
+input {
+  text-align: center;
+}
+.ab {
+  margin: auto;
+width: 50%;
+border: 3px solid green;
+padding: 10px;
+}
+.tbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  height: 100%;
+}
+.tbox2 {
+  background-color: #ffffff;
+  border: 1px solid black;
+}
